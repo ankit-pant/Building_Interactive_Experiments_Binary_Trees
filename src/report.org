@@ -124,6 +124,12 @@ The following sections elaborate on the different components of the project.
 
 
 * Deployment
+	The project has been committed to the following online repositories:
+	- [[https://gitlab.com/vlead-projects/experiments/aps/aps_project_vlabs.git][*VLead-Project repository*]] :
+		 This repository contains the entire project infrastructure and is where all the work was committed to.
+	- [[https://gitlab.com/ankit_pant/aps_project_vlabs.git][*APS Project Specific repoistory*]]:
+		This repository contains the outcome of the projects in the form of running application, source code and Project Report. This is basically a copy of the VLead-Project repository and was used for easier access to the project for the people who want to see the project in action without having to go through the details or long commit history. This repository also hosts the web application online.
+
  	The web application has been deployed to GitLab pages. The application can be run by clicking on this [[https://ankit_pant.gitlab.io/aps_project_vlabs][link]].
 
 
