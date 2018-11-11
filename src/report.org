@@ -122,11 +122,14 @@ The following sections elaborate on the different components of the project.
 	#+CAPTION: Post Order Traversal of the tree
 	[[file:postorder.gif]]
 
+
 * Deployment
  	The web application has been deployed to GitLab pages. The application can be run by clicking on this [[https://ankit_pant.gitlab.io/aps_project_vlabs][link]].
 
+
 * Future Scope
 	Since the project is built on the Binary Tree API, it can be easily extended to other kinds of Binary Trees (AVL trees, Red-Black trees, Heaps, etc). The application will be improved in the future to add more kinds of Binary Tree data structures.
+
 
 * References
 [1] Binary Search Tree - Wikipedia the free encyclopedia, https://en.wikipedia.org/wiki/Binary_search_tree,
